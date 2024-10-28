@@ -1,0 +1,7 @@
+inset:
+
+#!/usr/local/share/pynq-venv/bin/python3
+
+then modify: 
+
+chmod +x <script-path>
